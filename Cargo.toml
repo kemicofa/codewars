@@ -1,0 +1,6 @@
+[workspace]
+
+"members" = [
+    "find_the_smallest",
+    "weight_for_weights"
+]
