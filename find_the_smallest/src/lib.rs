@@ -27,7 +27,7 @@ fn get_digits(n: i64) -> Vec<i64> {
     loop {
         if current_n <= 1 {
             break;
-        }
+        }f
         digits.insert(0, current_n % 10);
         current_n /= 10;
     }

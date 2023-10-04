@@ -7,5 +7,9 @@ name = "find_the_smallest"
 version = "0.1.0"
 
 [[package]]
+name = "largest_difference_in_increasing_indexes"
+version = "0.1.0"
+
+[[package]]
 name = "weight_for_weights"
 version = "0.1.0"
